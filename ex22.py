@@ -12,3 +12,5 @@ return  Exit of the functions                               Defines what is give
 if
 else
 elif
+\\      Escape for \
+\...    Can escape many things, there is a list available   
